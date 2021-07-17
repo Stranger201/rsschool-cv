@@ -15,3 +15,9 @@
 - HTML
 - CSS
 - Git
+### Experience
+
+##### *July 2021 - now* - **Junior Frontend Developer**
+
+Taking a course in RSSchool
+
