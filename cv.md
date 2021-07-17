@@ -8,3 +8,10 @@
 - Russian - native
 - English - B1
 - Polish - B1
+
+### Skils 
+
+- JavaScript
+- HTML
+- CSS
+- Git
