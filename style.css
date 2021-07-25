@@ -1,0 +1,70 @@
+.left-block{
+    background-color: rgb(44, 50, 61);
+    position: absolute;
+    color: #fff;
+    width: 416px;
+    height: 1250px;
+    font-family: 'Poppins', sans-serif;
+    padding: 50px;
+}
+
+
+.right-block{
+    position: absolute;
+    left: 615px;
+    font-family: 'Poppins', sans-serif;
+    
+}
+header{
+    margin-top: 80px;
+    margin-bottom: 50px;
+}
+
+.img{
+    height: 300px;
+    width: 400px;
+}
+.contacts{
+    line-height: 2.1;
+}
+
+.languages{
+    line-height: 2.1;
+}
+
+.education{
+    line-height: 2.1;
+}
+
+.skils{
+    line-height: 2.1;
+}
+
+.code{
+    width: 800px;
+    height: 400px;
+    overflow: auto;
+    margin-left: -25px;
+}
+
+h1{
+    font-size: 70px;
+    margin: 0;
+    line-height: 0.895;
+    
+}
+h4{
+    font-size: 28px;
+    
+}
+a{
+    color: #fff;
+}
+
+#ghfooter{
+    color: #000;
+}
+footer{
+   
+    border-top: 2px #000 ;
+}
