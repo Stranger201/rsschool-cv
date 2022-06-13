@@ -1,3 +1,11 @@
+.wrapper{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    width: 1000px;
+    min-height: 100vh;
+    margin: auto;
+}
 .left-block{
     background-color: rgb(44, 50, 61);
     position: absolute;
